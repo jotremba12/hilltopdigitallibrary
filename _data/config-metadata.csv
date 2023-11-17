@@ -4,9 +4,13 @@ creator,Creator,,
 date,Date Created,,
 description,Description,,
 subject,Subjects,true,
-source,Finding Aid,,TRUE
-identifier,File Identifier,,
+repository,Repository,,TRUE
+collection,Collection Number,,
+identifier,File Location,,
+findingaid,Finding Aid,,true
 type,Type,,
 format,Format,,
-rights,Rights,,
-rightsstatement,Rights Statement,,true
+language,Language,,
+rights,Copyright Owner,,
+rightsstatement,Rights Statement,,
+preferredcitation,Preferred Citation,,
