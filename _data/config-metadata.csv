@@ -12,5 +12,5 @@ type,Type,,
 format,Format,,
 language,Language,,
 rights,Copyright Owner,,
-rightsstatement,Rights Statement,,
+rightsstatement,Rights Statement,true
 preferredcitation,Preferred Citation,,
