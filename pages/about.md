@@ -9,8 +9,8 @@ credits: true
 ---
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
-{% include feature/image.html object id="hilltop025" width="60" %}
+  
+{% include feature/image.html object id="hilltop025" %}
 
 ## About the Collection
 
